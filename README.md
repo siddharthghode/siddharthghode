@@ -1,5 +1,12 @@
 # 💫 About Me:
-### Hey, I'm Siddharth 👋<br><br>MCS grad from Pune · building things with **Python, Django & React**<br>Currently exploring the intersection of **ML, web dev & automation**<br>Working in public — daily logs, AI agents, ongoing projects<br>Runs a **math education** YouTube channel on the side<br>Open to **fresher/entry-level** roles in backend, full-stack or data<br>Portfolio → [siddharthghode.github.io](https://siddharthghode.github.io)
+### Hey, I'm Siddharth 👋
+
+🎓 MCS grad from Pune · building with **Python, Django & React**<br>
+🤖 Exploring the intersection of **ML, web dev & automation**<br>
+📂 Working in public — daily logs, AI agents, ongoing projects<br>
+📐 Runs a **math education** YouTube channel on the side<br>
+💼 Open to **fresher/entry-level** roles in backend, full-stack or data<br>
+🌐 Portfolio → [siddharthghode.github.io](https://siddharthghode.github.io)<br>
 
 
 ## 🌐 Socials:
