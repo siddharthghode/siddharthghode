@@ -19,7 +19,8 @@
 <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthghode&theme=dark&hide_border=false" alt="GitHub Streak" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthghode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+# Top Lng
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthghode&theme=dark&layout=compact&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" /> <br>
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthghode" alt="siddharthghode" /></a> </p>
 
