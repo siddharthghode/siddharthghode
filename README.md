@@ -6,8 +6,7 @@
 🎓 MCS grad from Pune · building with **Python, Django & React**<br>
 🤖 Exploring the intersection of **ML, web dev & automation**<br>
 📂 Working in public — daily logs, AI agents, ongoing projects<br>
-📐 Runs a **math education** YouTube channel on the side<br>
-💼 Open to **fresher/entry-level** roles in backend, full-stack or data<br>
+💼 Open to help/contribute in full stack projects.
 🌐 Portfolio → [siddharthghode.github.io](https://siddharthghode.github.io)<br>
 
 ## 🌐 Socials:
