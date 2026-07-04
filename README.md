@@ -18,8 +18,6 @@ Thanks for stopping by, and I hope you enjoy exploring my work! 🚀<br>
 </p>
 
 <br/>
-<img src="https://streak-stats.demolab.com/?user=siddharthghode&theme=dark&hide_border=false" alt="GitHub Streak" />
-<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
