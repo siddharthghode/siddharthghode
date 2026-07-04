@@ -5,7 +5,7 @@
 This GitHub is a record of my learning journey and progress. I'm not perfect, but every day I try to become a little better than I was yesterday.
 Here you'll find the projects and experiments I've built while exploring how different technologies work together to create useful and beautiful software. I'm especially curious about what happens behind the scenes—from backend systems and databases to operating systems and how hardware and software communicate.
 I enjoy breaking things down, understanding how they work, and building them back better. There's still a lot to learn, and that's exactly what makes this journey exciting.
-Thanks for stopping by, and I hope you enjoy exploring my work! 🚀
+Thanks for stopping by, and I hope you enjoy exploring my work! 🚀<br>
 💼 Open to help/contribute in full stack projects.
 🌐 Portfolio → [siddharthghode.github.io](https://siddharthghode.github.io)<br>
 
@@ -25,7 +25,7 @@ Thanks for stopping by, and I hope you enjoy exploring my work! 🚀
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siddharthghode&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=siddharthghode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
