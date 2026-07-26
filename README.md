@@ -14,7 +14,7 @@ Thanks for stopping by, and I hope you enjoy exploring my work! 🚀<br>
 <br>
 ##DADDY SAYS!!!!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/siddharthghode/siddharthghode/main/a08adecb4b17371d090fe12ea1d9ec23.avif" alt="Banner" width="100%" height="250">
+  <img src="https://raw.githubusercontent.com/siddharthghode/siddharthghode/main/featured_torvalds_linux_ted_31.webp" alt="Banner" width="100%" height="250">
 </p>
 
 <br/>
