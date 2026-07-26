@@ -12,7 +12,7 @@ Thanks for stopping by, and I hope you enjoy exploring my work! 🚀<br>
 ## 🌐 My Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MskNn5tG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_uni_boy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-ghode-7641a5272) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/siddharth_g_11) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sea-Artichoke-3391) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthghode59911@gmail.com)
 <br>
-##DADDY SAYS!!!!
+##GREAT GUY!!!!
 <p align="center">
   <img src="https://raw.githubusercontent.com/siddharthghode/siddharthghode/main/featured_torvalds_linux_ted_31.webp" alt="Banner" width="100%" height="250">
 </p>
